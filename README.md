@@ -20,15 +20,18 @@
 ## Installation
 
 ### Method 1: Model File (Roblox Studio)
-* Download the `rbxmx` model file attached to the latest release from the [GitHub releases page](https://github.com/Roblox/rodux/releases).
-* Insert the model into Studio into a place like `ReplicatedStorage`
+
+- Download the `rbxmx` model file attached to the latest release from the [GitHub releases page](https://github.com/Roblox/rodux/releases).
+- Insert the model into Studio into a place like `ReplicatedStorage`
 
 ### Method 2: Filesystem
-* Copy the `lib` directory into your codebase
-* Rename the folder to `Rodux`
-* Use a plugin like [Rojo](https://github.com/LPGhatguy/rojo) to sync the files into a place
+
+- Copy the `lib` directory into your codebase
+- Rename the folder to `Rodux`
+- Use a plugin like [Rojo](https://github.com/LPGhatguy/rojo) to sync the files into a place
 
 ## Usage
+
 Rodux works just like [Redux](https://redux.js.org)'s base API.
 
 See the official [Rodux Documentation](https://roblox.github.io/rodux/) for more details.
@@ -62,7 +65,9 @@ store:getState() -- { frobulations = 1 }
 ```
 
 ## Contributing
+
 Contributions are welcome! See [CONTRIBUTING.md](CONTRIBUTING.md) for information.
 
 ## License
+
 Rodux is available under the Apache 2.0 license. See [LICENSE](LICENSE) for details.
